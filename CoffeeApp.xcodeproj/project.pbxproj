@@ -90,11 +90,11 @@
 			children = (
 				763793F125FF7C0A0036D8BD /* Model */,
 				763793F025FF7BEE0036D8BD /* View */,
+				76DC15E225FEFF1500FCBD33 /* drink.json */,
 				76DC15CD25FEFE9100FCBD33 /* AppDelegate.swift */,
 				76DC15CF25FEFE9100FCBD33 /* SceneDelegate.swift */,
 				76DC15D825FEFE9400FCBD33 /* LaunchScreen.storyboard */,
 				76DC15DB25FEFE9400FCBD33 /* Info.plist */,
-				76DC15E225FEFF1500FCBD33 /* drink.json */,
 				76DC15D325FEFE9400FCBD33 /* Assets.xcassets */,
 				76DC15D525FEFE9400FCBD33 /* Preview Content */,
 			);
