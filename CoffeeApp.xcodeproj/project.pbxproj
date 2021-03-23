@@ -60,13 +60,13 @@
 			path = View;
 			sourceTree = "<group>";
 		};
-		763793F125FF7C0A0036D8BD /* Model */ = {
+		763793FC260A2CB60036D8BD /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				76DC15E525FEFF7B00FCBD33 /* Data.swift */,
 				76DC15E825FF022D00FCBD33 /* Drink.swift */,
+				76DC15E525FEFF7B00FCBD33 /* Data.swift */,
 			);
-			name = Model;
+			path = Model;
 			sourceTree = "<group>";
 		};
 		76DC15C125FEFE9100FCBD33 = {
@@ -88,12 +88,12 @@
 		76DC15CC25FEFE9100FCBD33 /* CoffeApp */ = {
 			isa = PBXGroup;
 			children = (
-				763793F125FF7C0A0036D8BD /* Model */,
 				763793F025FF7BEE0036D8BD /* View */,
-				76DC15E225FEFF1500FCBD33 /* drink.json */,
+				763793FC260A2CB60036D8BD /* Model */,
 				76DC15CD25FEFE9100FCBD33 /* AppDelegate.swift */,
 				76DC15CF25FEFE9100FCBD33 /* SceneDelegate.swift */,
 				76DC15D825FEFE9400FCBD33 /* LaunchScreen.storyboard */,
+				76DC15E225FEFF1500FCBD33 /* drink.json */,
 				76DC15DB25FEFE9400FCBD33 /* Info.plist */,
 				76DC15D325FEFE9400FCBD33 /* Assets.xcassets */,
 				76DC15D525FEFE9400FCBD33 /* Preview Content */,
